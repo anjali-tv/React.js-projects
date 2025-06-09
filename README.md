@@ -52,7 +52,12 @@ TODO-APP/
 -   Node.js (>= 14)
 -   npm or yarn
 
-### Installation
+📌 Notes
+
+-   The app saves todos in `localStorage`, so reloading won't lose your data.
+-   Input validation is included: update field cannot be empty.
+-   Responsive design ensures mobile usability.
+
 
 <!-- 1. **Clone the repository**
 
@@ -93,11 +98,7 @@ If your image is in `public/images/no-todos.png`, you can use it like this:
 <img src='/images/no-todos.png' alt='No tasks' />
 ```
 
-## 📌 Notes
 
--   The app saves todos in `localStorage`, so reloading won't lose your data.
--   Input validation is included: update field cannot be empty.
--   Responsive design ensures mobile usability.
 
 ## 📦 Build for Production
 
