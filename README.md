@@ -22,25 +22,6 @@ A responsive and user-friendly Todo App built with **React**. It allows users to
 -   Font Awesome (for icons)
 -   localStorage (for data persistence)
 
-## 📁 Project Structure
-
-TODO-APP/
-├── public/
-│ └── images/
-│ └── no-todos.png # Image used for empty todos
-├── src/
-│ ├── components/
-│ │ └── TodoList.jsx # Main Todo component
-│ ├── utils/
-│ │ └── textUtils.js # Utility for capitalizing words
-│ ├── assets/
-│ │ └── css/
-│ │ └── todo.css # CSS file for styling
-│ ├── App.jsx
-│ ├── index.js
-├── package.json
-├── README.md
-
 ## 🖼️ UI Preview
 
 ![Todo App Preview](/src/assets/todo-app.jpeg)
